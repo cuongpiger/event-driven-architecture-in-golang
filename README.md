@@ -8,3 +8,4 @@
 <hr>
 
 # ✅ Completed chaps
+- [x] [Chapter 1: Introduction to Event-Driven Architectures](./chap01/README.md)
