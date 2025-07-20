@@ -6,6 +6,7 @@
 ###### 🛠️ *References*
 - GitHub: [https://github.com/PacktPublishing/Event-Driven-Architecture-in-Golang](https://github.com/PacktPublishing/Event-Driven-Architecture-in-Golang)
 <hr>
+- Mallbots project: [https://github.com/cuongpiger/mallbots](https://github.com/cuongpiger/mallbots)
 
 # ✅ Completed chaps
 - [x] [Chapter 1: Introduction to Event-Driven Architectures](./chap01/README.md)
