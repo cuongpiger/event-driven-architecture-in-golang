@@ -17,3 +17,4 @@
 - [x] [Chapter 6: Asynchronous Connections](./chap06/README.md)
 - [x] [Chapter 7: Event-Carried State Transfer](./chap07/README.md)
 - [x] [Chapter 8: Message Workflows](./chap08/README.md)
+- [x] [Chapter 9: Transactional Messaging](./chap09/README.md)
