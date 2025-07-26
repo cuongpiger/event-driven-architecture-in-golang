@@ -15,3 +15,4 @@
 - [x] [Chapter 4: Event Foundations](./chap04/README.md)
 - [x] [Chapter 5: Tracking Changes with Event Sourcing](./chap05/README.md)
 - [x] [Chapter 6: Asynchronous Connections](./chap06/README.md)
+- [x] [Chapter 7: Event-Carried State Transfer](./chap07/README.md)
