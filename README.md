@@ -23,3 +23,4 @@
 - [x] [Chapter 9: Transactional Messaging](./chap09/README.md)
 - [x] [Chapter 10: Testing](./chap10/README.md)
 - [x] [Chapter 11: Deploying Applications to The Cloud](./chap11/README.md)
+- [x] [Chapter 12: Monitoring and Observability](./chap12/README.md)
