@@ -22,3 +22,4 @@
 - [x] [Chapter 8: Message Workflows](./chap08/README.md)
 - [x] [Chapter 9: Transactional Messaging](./chap09/README.md)
 - [x] [Chapter 10: Testing](./chap10/README.md)
+- [x] [Chapter 11: Deploying Applications to The Cloud](./chap11/README.md)
